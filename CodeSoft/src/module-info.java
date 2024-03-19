@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author gopic
- *
- */
-module CodeSoft {
-}
